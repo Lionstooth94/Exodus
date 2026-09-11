@@ -1,2 +1,2 @@
 # Exodus
-Stellarexodus
+Exodus stellar
